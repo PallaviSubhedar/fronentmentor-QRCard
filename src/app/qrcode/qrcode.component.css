@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+   max-width: 500px;
+   border-radius:20px;
+   
+  
+ 
+    
+}
+
+.mat-card-image{
+      text-align: center;
+      flex-wrap: wrap;
+      border-radius:10px;
+     
+      object-fit: cover;
+}
+ .title{
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
+.footer{
+    text-align: center;
+    
+    
+
+    
+
+}
+.secondfooter{
+    font-weight: lighter;
+    color:dimgray;
+}
+.matcontent{
+    flex-wrap: wrap;
+}
